@@ -2,7 +2,7 @@
 
 name: Neural Model Optimization
 description: Learn how to compress machine learning models using distillation, pruning, and quantization for real-world deployment.
-tags: [machine-learning, pytorch, optimization, deployment]
+
 version: 3.1.0
 --------------
 
